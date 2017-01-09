@@ -6,6 +6,6 @@ get '/' do
 end
 
 get '/second' do
-    @title = 'This is more info on Boxers'
+    @title = 'Second Page on Boxers Dogs'
     erb :second
 end    
