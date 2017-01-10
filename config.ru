@@ -1,3 +1,3 @@
-require 'firstapp'
+require './firstapp'
 
 run Sinatra::Application
