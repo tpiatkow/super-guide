@@ -1,3 +1,3 @@
-require './dogs'
+require 'firstapp'
 
 run Sinatra::Application
